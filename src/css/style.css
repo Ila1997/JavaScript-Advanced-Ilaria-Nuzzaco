@@ -1,0 +1,80 @@
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-image: url("../img/city.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.image {
+  height: 40vh;
+  width: 80%;
+  object-fit: fill;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.social-icon {
+color: black;
+}
+
+.social-icon:hover {
+color: rgb(251, 172, 221);
+}
+
+p {
+  text-align: center;
+}
+
+input {
+  margin-top: 50px;
+  width: 500px;
+  height: 70px;
+  font-size: 30px;
+  text-align: center;
+  border-radius: 60px;
+}
+
+p {
+  background-color: rgb(170, 37, 81, 0.8);
+  color: rgb(255, 255, 255);
+  border-radius: 60px;
+  font-weight: bolder;
+}
+
+.textScore,
+.score {
+  background-color: rgb(0, 0, 0);
+  color: rgb(170, 37, 81);
+  width: 380px;
+  text-align: center;
+  border-radius: 32px;
+  font-weight: bolder;
+}
+
+.category {
+  width: 300px;
+}
+
+.summary {
+  width: 80%;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  margin-top: 20px;
+  background-color: black;
+  color: rgb(251, 172, 221);
+  font-weight: bolder;
+  border-radius: 60px;
+}
+
+button:hover {
+  background-color: rgb(251, 172, 221);
+  color: black;
+}
