@@ -9,10 +9,10 @@
   </p>
 </div>
 
-![Immagine](url img.png)
+![Immagine](https://i.ibb.co/T4gvdmx/Java-Script-Advanced.png)
 # :link: *Project link: [City](https://ila1997.github.io/JavaScript-Advanced-Ilaria-Nuzzaco/)*
 
-You can also find it on netlify here: netlify url
+You can also find it on netlify here: https://lively-nasturtium-637b06.netlify.app/
 
 # *About the project:*
 This is a simple website, google style, created mostly with Javascript.
