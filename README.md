@@ -10,7 +10,7 @@
 </div>
 
 ![Immagine](url img.png)
-# :link: *Project link: [City](url github)*
+# :link: *Project link: [City](https://ila1997.github.io/JavaScript-Advanced-Ilaria-Nuzzaco/)*
 
 You can also find it on netlify here: netlify url
 

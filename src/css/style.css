@@ -24,7 +24,7 @@ color: black;
 }
 
 .social-icon:hover {
-color: rgb(251, 172, 221);
+color: rgb(247, 129, 168);
 }
 
 p {
@@ -66,11 +66,11 @@ button {
   width: 100px;
   height: 30px;
   background-color: black;
-  color: rgb(251, 172, 221);
+  color:  rgb(247, 129, 168);
   font-weight: bolder;
 }
 
 button:hover {
-  background-color: rgb(251, 172, 221);
+  background-color:  rgb(247, 129, 168);
   color: black;
 }
